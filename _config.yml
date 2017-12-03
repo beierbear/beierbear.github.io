@@ -61,7 +61,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Emmm....Welcome!"
-sidebar-avatar: /avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
