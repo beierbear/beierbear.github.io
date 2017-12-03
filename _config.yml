@@ -1,11 +1,11 @@
 # Site settings
-title: beierbear'
-SEOTitle: beierbear'
-header-img: img/lalala.jpg
+title: beierbear's
+SEOTitle: beierbear's
+header-img: img/lalala.jpeg
 email: zy19157@nottingham.edu.cn
-description: "aActing like none."
+description: "Acting like none."
 keyword: ""
-url: "http://beierbears.github.io"              # your host, for absolute URL
+url: "http://beierbear.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
