@@ -1,21 +1,21 @@
 # Site settings
-title: Songkeys'
-SEOTitle: Songkeys'
-header-img: img/home-bg.jpg
-email: zy22132@nottingham.edu.cn
-description: "Like likes like"
+title: beierbear'
+SEOTitle: beierbear'
+header-img: img/lalala.jpg
+email: zy19157@nottingham.edu.cn
+description: "aActing like none."
 keyword: ""
-url: "http://songkeys.github.io"              # your host, for absolute URL
+url: "http://beierbears.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 #RSS: false
-#weibo_username:
-#zhihu_username:
-github_username: songkeys
-#twitter_username:  huxpro
+weibo_username:斯蒂芬妮喝啤酒
+zhihu_username: beierbear
+github_username: beierbear
+#twitter_username:  
 #facebook_username:
 
 
@@ -47,8 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: songkeys
-
+disqus_username: beierbear
 
 # Analytics settings
 # Baidu Analytics
